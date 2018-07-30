@@ -2,7 +2,7 @@ const Rebase = require('re-base')
 const firebase = require('firebase')
 
 const FirebaseConfig = {
-    apiKey: "AIzaSyDgl5-BL0LbBGHKSJVP6N0U-IIXGyR4ggQ",
+    apiKey: "",
     authDomain: "portfolio-9e542.firebaseapp.com",
     databaseURL: "https://portfolio-9e542.firebaseio.com",
     projectId: "portfolio-9e542",
